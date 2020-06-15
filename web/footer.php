@@ -36,7 +36,7 @@
                 <img src="logos/ubicacion1.png" alt="" height="30px">
             </div>
             <div>
-                <p>Av. Salaverry 301</p>
+                <p>Dirección</p>
                 <p>Arequipa - Perú</p>
             </div>
         </section>
@@ -62,7 +62,7 @@
     </div>
     <div>
       <a href="https://rocoto.tech/" target="_blank">
-                      Desarrollado por rocoto.tech
+                      Consulting
       </a>
     </div>
     <div>

@@ -26,33 +26,35 @@
         </div>
 
         <div class="section1">
-          <h2 class="title2"> Merger Perú </h2>
+          <h2 class="title2"> Nuestra asesoría incluye</h2>
           <div class="parentGrid4">
             <div class="div1Grid4">
-              <h3>Hello world</h3>
+              <h3>Plan de Vigilancia, Prevención y Control del Covid-19 en el Trabajo</h3>
               <p>
-                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
-              educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalec
+                Las empresas deben elaborar un plan de vigilancia sanitaria en el trabajo, de acuerdo con la RM 239-2020-MINSA y modificatorias. Adicionando los protocolos sectoriales.
               </p>
             </div>
             <div class="div2Grid4">
-              <h3>Hello world</h3>
+              <h3>Tramite hasta registro del plan y la emisión de la constancia por SISCOVID</h3>
               <p>
-                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
-            educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalec
+                Si tu empresa pertenece a un sector de la fases 1 y 2 de reanudación de actividades no esenciales, tras la declaratoria de estado de emergencia por coronavirus, puede reiniciar operaciones previa autorización del Ministerio de Salud (Minsa) y cumpliendo los protocolos sanitarios y criterios de focalización territorial de su respectivo sector.
               </p>
             </div>
             <div class="div3Grid4">
-              <h3>Hello world</h3>
+              <h3>Capacitación del personal, incluido el Comité SST o Supervisor SST</h3>
               <p>
-                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
-            educació
+                Es un órgano bipartito y paritario constituido por representantes del empleador y de los trabajadores, con las facultades y obligaciones previstas por la legislación y la práctica nacional, destinado a la consulta regular y periódica de las actuaciones del empleador en materia de prevención de riesgos.
+
             </div>
             <div class="div4Grid4">
-              <h3>Hello world</h3>
-              <p>
-                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
-            educació
+              <h3>Además</h3>
+              <ul>
+                <li>📌Pisos desinfectantes</li>
+                <li>📌Pediluvio</li>
+                <li>📌Barreras físicas para transporte y comercio</li>
+                <li>📌Avisos y señaletica personalizado (con logo de tu empresa)</li>
+                <li>📌Guias graficas y flyers informativos</li>
+              </ul>
             </div>
           </div>
 
@@ -147,8 +149,7 @@
 
         <section class="sectionQuote">
           <p>
-            En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
-        educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalec
+            Tu labor como ciudadano responsable, es fundamental para el desarrollo sostenible en nuestra sociedad.
           </p>
         </section>
 
