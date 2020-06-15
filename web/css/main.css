@@ -1226,6 +1226,38 @@ background-color: #58becc;
     justify-content: center;
   }
 
+  .lightText{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+    font-size: 15px;
+
+  }
+  .lightText2{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+    font-size: 15px;
+
+  }
+  .bolderText {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+    font-weight: bold;
+
+    color: white;
+    font-size: 23px;
+    line-height: 24px;
+
+  }
 
 }
 

@@ -58,12 +58,12 @@
 
     <section class="footer4">
     <div class="f4-1">
-        <p>Copyright © 2020 Code en mi Cole. All rights reserved.</p>
+        <p>Copyright © 2020 Merger. All rights reserved.</p>
     </div>
     <div>
-    <a href="https://rocoto.tech/" target="_blank">
-                    Desarrollado por rocoto.tech
-            </a>
+      <a href="https://rocoto.tech/" target="_blank">
+                      Desarrollado por rocoto.tech
+      </a>
     </div>
     <div>
         <p>Aviso legal | Política de privacidad | Política de cookies</p>
