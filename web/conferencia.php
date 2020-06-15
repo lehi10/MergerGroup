@@ -29,7 +29,7 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         </div>
 
             <div id="seccion4">
-                <h2 class="font-lato galeria-titulo">GALERÍA</h2> 
+                <h2 class="font-lato galeria-titulo">GALERÍA</h2>
                 <hr id="line-hr" width="60">
 
                 <div id="gallery-1" class="gallery">
@@ -82,7 +82,7 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         margin-top: 100px;
         padding-left: 15% ;
         padding-right: 15% ;
-        font-size: 16pt;    
+        font-size: 16pt;
     }
 
     #btn-saber{
@@ -102,7 +102,7 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
             margin-top: 30px;
             padding-left: 15% ;
             padding-right: 15% ;
-            font-size: 13pt;    
+            font-size: 13pt;
         }
 
 
@@ -131,9 +131,9 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         text-align:center;
         margin-top: 50px;
     }
-    
+
     #seccion4 hr{
-            border: 0.4pt solid #1D4E9B;    
+            border: 0.4pt solid #1D4E9B;
             margin-bottom:2%;
         }
 
@@ -152,8 +152,8 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         }
 
         .gallery img{
-            height: 100%;    
-            margin: auto; 
+            height: 100%;
+            margin: auto;
         }
 
 
@@ -161,7 +161,7 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         #photo-l{
             height: 270px;
             overflow: hidden;
-            margin-bottom: 15px;    
+            margin-bottom: 15px;
         }
 
         #photo-c{
@@ -204,12 +204,12 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
             grid-template-columns: 1fr;
             grid-template-rows: repeat(3, 1fr);
             grid-column-gap: 0px;
-            grid-row-gap:5px;   
+            grid-row-gap:5px;
             margin-left: 10px;
             margin-right: 10px;
             overflow: hidden;
         }
-        
+
         #photo-l{
         height: 300px;
         overflow: hidden;
@@ -226,9 +226,9 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         }
 
         .gallery img{
-            height: 100%;    
-            margin: auto; 
-            
+            height: 100%;
+            margin: auto;
+
         }
     }
 </style>
@@ -248,4 +248,3 @@ Como parte de estos esfuerzos por llevar esta educación a más escuelas de Per�
         });
     });
 </script>
-
