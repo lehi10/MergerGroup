@@ -8,72 +8,149 @@
 
     <body>
         <?php include("nav.php"); ?>
-        <div id="seccion1">
-            <img src="img/events.png" alt="Eventos" width="70%" >
 
-            <h1 id="csc-title" class="font-lato">Encuentro de Organizaciones<br> Educativas Innovadoras</h1>
-
-            <p class="font-lato">
-                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
-            educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalecerlas, para construir juntos: una nueva era.
+        <div class="coverImg" >
+          <div class="coverText">
+            <p class="lightText">
+            OFRECEMOS</p>
+            <p class="bolderText">
+              Planes de vigilancia, prevención y control de Covid19 en el trabajo.
             </p>
-        </div>
-
-    <div id="seccion4">
-        <h2 class="font-lato galeria-titulo">GALERÍA</h2>
-        <hr id="line-hr" width="60">
-
-        <div id="gallery-1" class="gallery">
-            <div class="photo" id="photo-l">
-                <img src="img/eventos/galery2.jpeg">
-            </div>
-            <div class="photo" id="photo-c">
-                <img src="img/eventos/galery3.jpeg">
-            </div>
-            <div class="photo" id="photo-r">
-                <img src="img/eventos/galery4.jpeg">
-            </div>
-
-            <div class="photo" id="photo-l">
-                <img src="img/eventos/galery5.jpeg">
-            </div>
-            <div class="photo" id="photo-c">
-                <img src="img/eventos/galery6.jpeg">
-            </div>
-            <div class="photo" id="photo-r">
-                <img src="img/eventos/galery7.jpeg">
-            </div>
-        </div>
-
-
-        <div id="gallery-2" class="gallery">
-            <div class="photo" id="photo-l">
-                <img src="img/eventos/galery4.jpeg">
-            </div>
-            <div class="photo" id="photo-c">
-                <img src="img/eventos/galery5.jpeg">
-            </div>
-            <div class="photo" id="photo-r">
-                <img src="img/eventos/galery1.jpeg">
-            </div>
-
-            <div class="photo" id="photo-l">
-                <img src="img/eventos/galery1.jpeg">
-            </div>
-            <div class="photo" id="photo-c">
-                <img src="img/eventos/galery3.jpeg">
-            </div>
-            <div class="photo" id="photo-r">
-                <img src="img/eventos/galery2.jpeg">
-            </div>
+            <p class="lightText2">
+                Somos Merger Group Peru, con nuestra división de "Merger Consulting"
+                buscamos generar soluciones competitivas para la gestión de calidad,
+                medio ambiente, Seguridad y Salud en el Trabajo.
+            </p>
+          </div>
 
         </div>
 
-        <div class="dots-group">
-            <span  class="dot" id="1" onclick="currentSlide(1)" ></span>
-            <span class="dot" id="2" onclick="currentSlide(2)"></span>
+        <div class="section1">
+          <h2 class="title2"> Merger Perú </h2>
+          <div class="parentGrid4">
+            <div class="div1Grid4">
+              <h3>Hello world</h3>
+              <p>
+                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
+              educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalec
+              </p>
+            </div>
+            <div class="div2Grid4">
+              <h3>Hello world</h3>
+              <p>
+                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
+            educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalec
+              </p>
+            </div>
+            <div class="div3Grid4">
+              <h3>Hello world</h3>
+              <p>
+                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
+            educació
+            </div>
+            <div class="div4Grid4">
+              <h3>Hello world</h3>
+              <p>
+                En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
+            educació
+            </div>
+          </div>
+
         </div>
-    </div>
+
+
+        <div class="section2">
+          <div class="parentGrid2">
+            <div class="div1Grid2"> <img src="images/vision.jpeg" alt="Eventos" width="70%" ></div>
+            <div class="div2Grid2">
+              <h3>Titulo</h3>
+              <p>En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la</p>
+            </div>
+          </div>
+
+        </div>
+
+
+        <div class="section3">
+          <div class="parentGrid2">
+            <div class="div1Grid2">
+              <h3>Titulo</h3>
+              <p>En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la</p>
+            </div>
+            <div class="div2Grid2">
+              <img src="images/vision.jpeg" alt="Eventos" width="70%" >
+            </div>
+          </div>
+        </div>
+
+
+
+            <div id="seccion4">
+
+                <h2 class="title2"> Titulo </h2>
+                <div class="quoteP">
+                  <p>En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la</p>
+                </div>
+
+
+                <div id="gallery-1" class="gallery">
+                    <div class="photo" id="photo-l">
+                        <img src="img/eventos/galery2.jpeg">
+                    </div>
+                    <div class="photo" id="photo-c">
+                        <img src="img/eventos/galery3.jpeg">
+                    </div>
+                    <div class="photo" id="photo-r">
+                        <img src="img/eventos/galery4.jpeg">
+                    </div>
+
+                    <div class="photo" id="photo-l">
+                        <img src="img/eventos/galery5.jpeg">
+                    </div>
+                    <div class="photo" id="photo-c">
+                        <img src="img/eventos/galery6.jpeg">
+                    </div>
+                    <div class="photo" id="photo-r">
+                        <img src="img/eventos/galery7.jpeg">
+                    </div>
+                </div>
+
+
+                <div id="gallery-2" class="gallery">
+                    <div class="photo" id="photo-l">
+                        <img src="img/eventos/galery4.jpeg">
+                    </div>
+                    <div class="photo" id="photo-c">
+                        <img src="img/eventos/galery5.jpeg">
+                    </div>
+                    <div class="photo" id="photo-r">
+                        <img src="img/eventos/galery1.jpeg">
+                    </div>
+
+                    <div class="photo" id="photo-l">
+                        <img src="img/eventos/galery1.jpeg">
+                    </div>
+                    <div class="photo" id="photo-c">
+                        <img src="img/eventos/galery3.jpeg">
+                    </div>
+                    <div class="photo" id="photo-r">
+                        <img src="img/eventos/galery2.jpeg">
+                    </div>
+
+                </div>
+
+                <div class="dots-group">
+                    <span  class="dot" id="1" onclick="currentSlide(1)" ></span>
+                    <span class="dot" id="2" onclick="currentSlide(2)"></span>
+                </div>
+            </div>
+
+        <section class="sectionQuote">
+          <p>
+            En Latinoamérica y el Perú se vienen desarrollando diferentes iniciativas que impulsan cambios que la
+        educación y la formación necesitan para transformarse en la era digital. El reto que asumimos es convocar estas iniciativas. Conocerlas, integrarlas y fortalec
+          </p>
+        </section>
 
 
         <?php include("footer.php"); ?>
@@ -128,8 +205,6 @@
         grid-column-gap: 30px;
         grid-row-gap: 30px;
         align-items: center;
-        margin: 50px 100px 50px 100px;
-
     }
 
     #gallery img{
@@ -157,6 +232,7 @@
         grid-row-gap: 30px;
         align-items: center;
         margin: 50px 30 50px 30px;
+
     }
 
     #gallery img{
@@ -199,13 +275,7 @@
         text-align: center;
         margin-bottom: 80px;
     }
-    #seccion4 h2{
-        color: #1078FF;
-        font-weight: 700;
-        font-weight: 700;
-        text-align:center;
-        margin-top: 50px;
-    }
+
 
     #seccion4 hr{
         border: 0.4pt solid #1D4E9B;
@@ -220,10 +290,11 @@
         grid-template-rows: repeat(2, 1fr);
         grid-column-gap: 10px;
         grid-row-gap: 10px;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 130px;
+        margin-right: 130px;
         justify-items: center;
         align-items: center;
+
     }
 
     .gallery img{
